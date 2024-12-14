@@ -1,4 +1,4 @@
-# Stock-Market-Trend-Prediction-Using-Time-Series-Analysis
+# Time Series Forecasting for Stock Market Trends
 
 ## Table of Contents
 - [Overview](#overview)
@@ -163,6 +163,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For any questions or suggestions, please contact:
 
-	•	Mohit Kumar
-	•	Email: mk1695@srmist.edu.in
-	•	GitHub: mohit0825
+	•	Name: Adil Rasheed
+	•	Email: adilrasheed139@gmail.com
+	•	GitHub: adilrasheed139
